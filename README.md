@@ -28,8 +28,8 @@ Este projeto é um clone simples do Spotify com front-end e back-end feito a par
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/seu-usuario/replica-spotify.git
+cd replica-spotify
 
 2. Instale as dependências
 Back-End:
