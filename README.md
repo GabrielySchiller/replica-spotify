@@ -7,6 +7,7 @@ Este projeto é um clone simples do Spotify com front-end e back-end feito a par
 ### Front-End:
 - HTML, CSS, JavaScript
 - React
+- Vite
 
 ### Back-End:
 - Node.js
